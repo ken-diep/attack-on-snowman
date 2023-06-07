@@ -13,3 +13,11 @@ Various code adapted from
 
 https://www.youtube.com/@ModdingByKaupenjoe
 https://www.youtube.com/@ThatOneUnityDev
+
+I would still like to get round to:
+
+Implementing enemy spawner
+Adding a start and game over message
+Adding enemy health for snowball hit
+Polishing visuals
+Uploading the game so it can be played in browser
